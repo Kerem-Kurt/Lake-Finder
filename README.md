@@ -14,3 +14,6 @@ Summary:
 -	Check each lake point to see if any two of them are neighbors. If so record it and name them the same.
 -	Name the lakes accordingly and print the terrain.
 -	Check for each lakes non-lake neighbors and find the shortest neighbor calculate volume and score accordingly.
+
+
+!!!!! Example outputs are provided in the repository
